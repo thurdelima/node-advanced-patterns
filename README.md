@@ -89,7 +89,7 @@ Made with ♥ by Arthur Lima :wave: [Get in touch!](https://www.linkedin.com/in/
 <p align="center">
 
   <a alt="Arthur Lima Linkedin" href="https://www.linkedin.com/in/arthur-lima-294ab0103/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arthur-Lima-blue?logo=linkedin"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-Arthur-blue?logo=linkedin"/></a>
   <a alt="Arthur Lima GitHub" href="https://github.com/thurdelima">
   <img src="https://img.shields.io/badge/GitHub-thurdelima-lightgrey?logo=github"/></a>
  
