@@ -6,7 +6,20 @@
 </h1>
 <h2 align="center">
 
-<a href="https://github.com/thurdelima/node-advanced-patterns"><img src="https://isitics.com/wp-content/uploads/2019/06/2400%D1%851260-rw-blog-node-js-1024x538.png" ></a><br/><br/>
+<br/>
+
+<p align="center">
+
+  <a alt="Arthur Lima Linkedin" href="https://www.linkedin.com/in/arthur-lima-294ab0103/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arthur-blue?logo=linkedin"/></a>
+  <a alt="Arthur Lima GitHub" href="https://github.com/thurdelima">
+  <img src="https://img.shields.io/badge/GitHub-thurdelima-lightgrey?logo=github"/></a>
+ 
+
+</p>
+<br/>
+
+<img src="https://isitics.com/wp-content/uploads/2019/06/2400%D1%851260-rw-blog-node-js-1024x538.png" ><br/><br/>
 
 
 <img src="class_cache.png" >
@@ -84,15 +97,5 @@ Made with ♥ by Arthur Lima :wave: [Get in touch!](https://www.linkedin.com/in/
 </h4>
 
 ---
-<br/>
 
-<p align="center">
-
-  <a alt="Arthur Lima Linkedin" href="https://www.linkedin.com/in/arthur-lima-294ab0103/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arthur-blue?logo=linkedin"/></a>
-  <a alt="Arthur Lima GitHub" href="https://github.com/thurdelima">
-  <img src="https://img.shields.io/badge/GitHub-thurdelima-lightgrey?logo=github"/></a>
- 
-
-</p>
 
