@@ -1,4 +1,4 @@
-# node-advanced-patterns
+
 
 
 <h1 align="center">
@@ -6,7 +6,7 @@
 </h1>
 <h2 align="center">
 
-<a href="https://github.com/thurdelima/node-advanced-patterns">https://isitics.com/wp-content/uploads/2019/06/2400%D1%851260-rw-blog-node-js-1024x538.png</a><br/><br/>
+<a href="https://github.com/thurdelima/node-advanced-patterns"><img src="https://isitics.com/wp-content/uploads/2019/06/2400%D1%851260-rw-blog-node-js-1024x538.png" ></a><br/><br/>
 
 
 <img src="class_cache.png" >
@@ -89,9 +89,9 @@ Made with ♥ by Arthur Lima :wave: [Get in touch!](https://www.linkedin.com/in/
 <p align="center">
 
   <a alt="Arthur Lima Linkedin" href="https://www.linkedin.com/in/arthur-lima-294ab0103/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Victor%20Pereira%20Santos-blue?logo=linkedin"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-Arthur-Lima-blue?logo=linkedin"/></a>
   <a alt="Arthur Lima GitHub" href="https://github.com/thurdelima">
-  <img src="https://img.shields.io/badge/GitHub-joaovictorpsantos-lightgrey?logo=github"/></a>
+  <img src="https://img.shields.io/badge/GitHub-thurdelima-lightgrey?logo=github"/></a>
  
 
 </p>
